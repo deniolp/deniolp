@@ -7,4 +7,4 @@ Hi, I am Denis, very curious one. I love new things. As for technologies, now I 
 
 嗨! 我是吉尼斯，是很好奇的人。我很喜欢吸收新的知识。我正在把精力集中到Node.js, React和TS.但是最重要还是JS.我想要和你们埋头创造有意义的东西。而且我十分喜欢汉语。我的母语是俄语。
 
-:mailbox_with_no_mail:<a href="https://dpopov-portfolio.netlify.app/">My Gatsby portfolio</a>
+:mailbox_with_no_mail: <a href="https://dpopov-portfolio.netlify.app/">My Gatsby portfolio</a>
